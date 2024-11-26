@@ -9,7 +9,7 @@ NIM: 312410521
 ## praktikum 4
 
 ### - flowchart
-![foto]( )
+![foto](https://github.com/azkaa-pixel/praktikum-5/blob/c8de38bcc10eca8d83e09c037a18f31900252226/praktikum%205.png)
 ### - code program
 #### 1. Inisialisasi Dictionary ```mahasiswa:```
 ```python
@@ -142,4 +142,6 @@ while True:
 
 
 
-### - hasil 
+### - hasil
+
+![foto]()
