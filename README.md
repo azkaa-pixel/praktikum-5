@@ -138,10 +138,7 @@ while True:
         break
     else:
         print("Pilihan tidak valid!")
-
-
-
-
+```
 ### - hasil
 
-![foto]()
+![foto](https://github.com/azkaa-pixel/praktikum-5/blob/3e9215988abc5524608413dc01e1d71746c31605/hasil.jpeg)
